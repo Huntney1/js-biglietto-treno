@@ -18,11 +18,11 @@ let eta = prompt("Dichiarare l'età del passeggero");
 let prezzoIntero = numkm * 0.21;
 
 let prezzoFinale = prezzoIntero; 
-// - 4.1 per i minorenni va applicato uno sconto del 20%;
+// - 3.1 per i minorenni va applicato uno sconto del 20%;
 if (eta <= 17) {
     prezzoFinale = prezzoIntero  * 0.8 ;
 }
-// - 4.2 per gli over 65 va applicato uno sconto del 40%;
+// - 3.2 per gli over 65 va applicato uno sconto del 40%;
 else if (eta >= 65) {
     prezzoFinale = prezzoIntero  * 0.6 ;
     
