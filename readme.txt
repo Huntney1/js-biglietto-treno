@@ -18,9 +18,8 @@ Bonus: All'interno di una cartella bonus, potete rifare l'esercizio mostrando a 
 
  - 1 Dichiarare il numero di chilometri che si vogliono percorrere;
  - 2 Dichiarare l'età del passeggero;
- - 3 concatena le 2 informazioni per calcolare il prezzo del viaggio;
- - 4 secondo queste regole: il prezzo del biglietto è definito in base ai km (0.21 € al km);
-    - 4.1 per i minorenni va applicato uno sconto del 20%;
-    - 4.2 per gli over 65 va applicato uno sconto del 40%;
-- 5 inserire l'output del prezzo finale all'esterno. 
+ - 3 secondo queste regole: il prezzo del biglietto è definito in base ai km (0.21 € al km);
+    - 3.1 per i minorenni va applicato uno sconto del 20%;
+    - 3.2 per gli over 65 va applicato uno sconto del 40%;
+- 4 inserire l'output del prezzo finale all'esterno. 
     
